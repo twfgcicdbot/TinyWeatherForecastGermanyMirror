@@ -138,7 +138,7 @@
     <string name="welcome_s1_text3">прогноз на 10 днів</string>
     <string name="welcome_s1_text5">віджети для головного екрана</string>
     <string name="welcome_s2_text10">Темп. на землі</string>
-    <string name="welcome_s3_text4">Панель прогнозу показує хмарність сірим кольором, а дощ – синім.</string>
+    <string name="welcome_s3_text4">Панель прогнозу показує хмарність сірим кольором, а дощ — синім.</string>
     <string name="welcome_setuptitle">Основне налаштування</string>
     <string name="areadatabasecreator_title">Підготовка даних</string>
     <string name="welcome_s4_displaytype">Оберіть як відображати прогноз погоди:</string>
@@ -193,7 +193,7 @@
     <string name="preference_meterednetwork_summary">Також використовувати тарифіковані мережі для отримання даних.</string>
     <string name="preference_screen_gadgetbridge_title">Підтримка Gadgetbridge</string>
     <string name="preference_screen_gadgetbridge_summary">Параметри для інтегрування даних погоди цієї програми в Gadgetbridge.</string>
-    <string name="preference_gadgetbridge_serve_summary">Якщо дозволено – всі дані погоди надсилатимуться локально до програми Gadgetbridge на Вашому пристрої.</string>
+    <string name="preference_gadgetbridge_serve_summary">Якщо ввімкнено, всі дані про погоду надсилатимуться локально до програми Gadgetbridge на Вашому пристрої.</string>
     <string name="preference_gadgetbridge_faketimestamp_title">Надіслати поточний час</string>
     <string name="preference_loggingscreen_title">Зневадження</string>
     <string name="preference_logging_title">Журналювання</string>
@@ -532,4 +532,5 @@
     <string name="switch_to_next_station">Перемкнутися на найближчу метеостанцію</string>
     <string name="preference_overviewchart_inappsize_title">Розмір</string>
     <string name="preference_overviewchart_inappsize_summary">Розмір оглядової діаграми в портретній орієнтації.</string>
+    <string name="error_no_data" translatable="true">Дані про погоду недоступні.</string>
 </resources>
