@@ -533,4 +533,5 @@
     <string name="preference_screen_uvhi_mainType_summary">No aplique factores de modificación de nubes a la previsión del índice de peligro UV que se muestra en la vista principal de la aplicación.</string>
     <string name="preference_overviewchart_inappsize_title">Tamaño</string>
     <string name="preference_overviewchart_inappsize_summary">Tamaño del gráfico en modo vertical.</string>
+    <string name="error_no_data" translatable="true">Sin datos meteorológicos disponibles.</string>
 </resources>
