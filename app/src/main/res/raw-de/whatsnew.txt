@@ -1,7 +1,6 @@
 Neu in dieser Version [VERSION]:
 
-- verbessertes Regenradar
-- fehlende Rundung in der Anzeige der Niederschlagsmenge behoben
+- diverse Fehlerkorrekturen (siehe Changelog für Details)
 - verbesserte Übersetzungen
 
 Für eine detaillierte Liste der Änderungen siehe https://codeberg.org/Starfish/TinyWeatherForecastGermany/src/branch/master/CHANGELOG.md

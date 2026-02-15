@@ -1,7 +1,6 @@
 New in version [VERSION]:
 
-- improved rain radar
-- fixed missing rounding in precipitation amount
+- various bugfixes (see full changelog for details)
 - improved translations
 
 For a detailed list of changes, see https://codeberg.org/Starfish/TinyWeatherForecastGermany/src/branch/master/CHANGELOG.md
