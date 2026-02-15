@@ -1,0 +1,2 @@
+- diverse Fehlerkorrekturen (siehe Changelog für Details)
+- verbesserte Übersetzungen

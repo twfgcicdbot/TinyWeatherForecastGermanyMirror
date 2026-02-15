@@ -1,5 +1,24 @@
 # Changelog 
 
+## Version 0.63.2
+- fix probability values in 6-hour and 24-hour forecasts using correct first index
+- move database lock acquisition before async task when creating area database to eliminate a race condition where the database could be created multiple times simultaneously
+- fixed notification ID counter type mismatch
+- added null check to prevent app crash on first app launch where not weather data is present
+- added warning fetch and notification trigger on device boot, so that warnings get restored in notifications after a device restart
+- improved location selection when multiple locations are available with the same time stamp
+- improved rendering of warnings in the overview chart
+- fixed duplicate key storage issue for boolean values
+- fixed incorrect air pressure retrieval in 24-hour forecast
+- added null check for the optional warning instruction field as this field is optional per CAP standard
+- fixed weather station list not cleared properly when new locations were added in the same app session
+
+## Version 0.63.1
+- fixed missing rounding in precipitation amount
+- add seekbar to the rain radar
+- reduce minimum widget size of the time & weather widget
+- improve fetching of rain radar
+
 ## Version 0.63.0
 - fixed a crash when manually refreshing data caused by warnings with no expiration date
 - the button to change to the nearest station is not displayed when data is not present but being re-loaded

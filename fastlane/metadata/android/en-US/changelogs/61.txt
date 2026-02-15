@@ -1,0 +1,2 @@
+- various bugfixes (see full changelog for details)
+- improved translations
