@@ -1,0 +1,1 @@
+- Fehler behoben, durch den einige Einstellungen nicht sichtbar waren

@@ -1,7 +1,5 @@
 New in version [VERSION]:
 
-- app now targets sdk level 36
-- the app language can now be set in the app settings
-- improved translations
+- fixed some settings not visible
 
 For a detailed list of changes, see https://codeberg.org/Starfish/TinyWeatherForecastGermany/src/branch/master/CHANGELOG.md

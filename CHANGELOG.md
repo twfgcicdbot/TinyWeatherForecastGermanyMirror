@@ -1,4 +1,7 @@
 # Changelog 
+## Version 0.63.4
+- fix some settings not visible
+
 ## Version 0.63.3
 - app now targets sdk level 36
 - the app language can now be set in the app settings
@@ -8,7 +11,7 @@
 - fix probability values in 6-hour and 24-hour forecasts using correct first index
 - move database lock acquisition before async task when creating area database to eliminate a race condition where the database could be created multiple times simultaneously
 - fixed notification ID counter type mismatch
-- added null check to prevent app crash on first app launch where not weather data is present
+- added null check to prevent app crash on first app launch where no weather data is present
 - added warning fetch and notification trigger on device boot, so that warnings get restored in notifications after a device restart
 - improved location selection when multiple locations are available with the same time stamp
 - improved rendering of warnings in the overview chart
