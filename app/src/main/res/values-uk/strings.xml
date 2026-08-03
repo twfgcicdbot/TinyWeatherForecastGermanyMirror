@@ -223,7 +223,7 @@
     <string name="direction_calm">-</string>
     <string name="twilight">Сутінки</string>
     <string name="preference_feedback_summary">Надішліть розробнику якийсь відгук на ел. пошту.</string>
-    <string name="preference_clearnotifications_message">Пам\'ять сповіщень очищено.</string>
+    <string name="preference_clearnotifications_message">Пам’ять сповіщень очищено.</string>
     <string name="feedback_mail_subject">Відгук: TinyWeatherForecastGermany</string>
     <string name="feedback_mail_text">Під час надсилання звітів про вади, будь ласка, за можливості скопіюйте і вставте журнали.</string>
     <string name="warnings_until">до</string>
@@ -282,11 +282,11 @@
     <string name="travel_button">Оновити все</string>
     <string name="welcome_s3_text5">Довге натискання на прогнозі відкриває детальний перегляд.</string>
     <string name="update_failed">Невдале оновлення:</string>
-    <string name="network_lost">втрачено з\'єднання з Інтернетом.</string>
+    <string name="network_lost">втрачено з’єднання з Інтернетом.</string>
     <string name="preference_display_overviewchart_summary">Завжди показувати діаграму з температурою, хмарністю й опадами на наступні дні. Якщо вимкнено, діаграма буде видима лише в альбомному режимі і лише за умови достатнього місця.</string>
     <string name="preference_display_overviewchart_title">Оглядова діаграма</string>
-    <string name="network_nonetwork">нема з\'єднання з Інтернетом.</string>
-    <string name="network_timeout">час на з\'єднання з Інтернетом вичерпано.</string>
+    <string name="network_nonetwork">нема з’єднання з Інтернетом.</string>
+    <string name="network_timeout">час на з’єднання з Інтернетом вичерпано.</string>
     <string name="preference_category_location">Місцезнаходження</string>
     <string name="preference_usegps_title">Використовуйте служби визначення місцезнаходження</string>
     <string name="preference_gpsauto_summary">Під час кожного запуску перевіряйте правильність розташування.</string>
@@ -520,7 +520,7 @@
     <string name="preference_display_wind_distance_time_summary">Час відображається в годинах.</string>
     <string name="preference_display_wind_distance_activate_title">Показувати відстань</string>
     <string name="preference_mapSaveState_title">Зберегти масштаб</string>
-    <string name="preference_mapSaveState_summary">Пам\'ятати останнє положення та масштаб мапи і відновлювати їх при наступному виклику мапи.</string>
+    <string name="preference_mapSaveState_summary">Пам’ятати останнє положення та масштаб мапи і відновлювати їх при наступному виклику мапи.</string>
     <string name="preference_uvi_notice_summary">Докладніше про розрахунок УФ-індексу див. на сторінці DWD. Зміна параметра «Ясне небо» призводить до необхідності оновлення прогнозних даних від DWD.</string>
     <string name="preference_screen_uvhi_mainType_title">Ясне небо</string>
     <string name="preference_screen_uvhi_mainType_summary">Не застосовувати модифікатор хмарності до прогнозу індексу небезпеки ультрафіолетового випромінювання.</string>
