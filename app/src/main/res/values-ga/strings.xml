@@ -531,4 +531,5 @@
     <string name="switch_to_next_station">Athraigh go dtí an stáisiún is gaire</string>
     <string name="preference_screen_uvhi_mainType_title">Spéir shoiléir</string>
     <string name="preference_screen_uvhi_mainType_summary">Ná cuir fachtóirí modhnúcháin scamall i bhfeidhm ar réamhaisnéis innéacs guaise UV a thaispeántar i bpríomhradharc an aip.</string>
+    <string name="error_no_data" translatable="true">Níl aon sonraí aimsire ar fáil.</string>
 </resources>
