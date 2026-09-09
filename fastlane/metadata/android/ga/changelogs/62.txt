@@ -1,0 +1,3 @@
+- tá an aip dírithe anois ar leibhéal 36 den SDK
+- is féidir teanga an aip a shocrú i socruithe an aip anois
+- aistriúcháin fheabhsaithe
