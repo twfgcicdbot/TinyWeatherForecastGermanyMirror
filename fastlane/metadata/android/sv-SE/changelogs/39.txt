@@ -1,0 +1,5 @@
+- nytt filter för vilka varningar som ska skickas som aviseringar
+    - kartan visar vid behov kommuner, förbundsländer och varningsområden till havs och längs kuster
+    - skalningen av temperatur i översiktsdiagrammet (app och widgetar) kan ställas in på fasta värden
+    - nytt alternativ för att återställa alla inställningar till standardvärden
+    - förbättrade översättningar

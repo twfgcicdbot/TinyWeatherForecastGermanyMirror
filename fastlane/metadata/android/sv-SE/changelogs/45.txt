@@ -1,0 +1,8 @@
+- vädervarningar kan delas
+- datastatus visas nu i lokal tid (inte UTC)
+- widgeten med översiktsdiagram använder hela tillgängliga ytan efter enhetsrotation
+- större text i väderdetaljerna, rättade avklippt prognos på vissa enheter
+- kartor använder nu tillgänglig yta bättre
+- inmatning och val av plats har förbättrats
+- ytterligare förbättringar av användargränssnittet
+- förbättrade översättningar

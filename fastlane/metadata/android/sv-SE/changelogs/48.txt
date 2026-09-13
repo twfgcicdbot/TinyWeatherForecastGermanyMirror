@@ -1,0 +1,6 @@
+- den feta widgeten visar nu prognosen för fler dagar, beroende på widgetens storlek
+- rättade flera layoutproblem i den feta widgeten
+- rättade ett fel som visade fel väderstation när en ”SWIS-PUNKT” valdes igen från favoriterna
+- lade till en lösning för att hindra paketinstalleraren från att krascha när appen installeras och/eller uppdateras
+- widgetar uppdateras nu alltid vid appstart
+- vissa visningsalternativ flyttades till ”Övrigt”

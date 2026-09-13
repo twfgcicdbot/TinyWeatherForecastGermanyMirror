@@ -1,0 +1,7 @@
+0.58.1:
+- uppdaterade stationsdata och varningsområden
+- förbättrad logik för när dag- och nattikoner ska visas
+- rättar felaktig standardopacitet för widgetar
+- förbättrade översättningar
+0.58.2:
+- rättar felaktig databasstorlek

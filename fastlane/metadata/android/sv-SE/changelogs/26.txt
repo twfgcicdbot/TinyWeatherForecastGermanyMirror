@@ -1,0 +1,5 @@
+- förbättrad prestanda vid enhetsrotation
+- rättade flera fel:
+- några möjliga appkrascher vid start
+- vissa väderstationer kunde inte väljas
+- vissa väderstationer förekom dubbelt bland förslagen

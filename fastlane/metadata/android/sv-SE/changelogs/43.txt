@@ -1,0 +1,6 @@
+- förbättrad regnradar
+- ny detaljerad prognosöversikt
+- nytt språk: ryska (tack till Wirdi51!)
+- förbättrade översättningar
+- mindre layoutförbättringar och felrättningar
+- rättade färgfel i ljust och mörkt tema

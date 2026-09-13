@@ -1,0 +1,5 @@
+- lade till funktion för att hitta närmaste vädersensorer med geografiska koordinater eller enhetens platstjänster
+- lade till reservläge utan SSL om en krypterad anslutning misslyckas på mycket gamla enheter (till exempel 4.x.x) på grund av saknade chiffersviter
+- ofullständiga tidsintervall (6 h, 24 h) utesluter nu tidigare data i beräkningar där det är möjligt
+- rättade fel vid beräkning av lägsta och högsta temperatur (kan tidigare ha varit för hög respektive för låg)
+- flera mindre felrättningar

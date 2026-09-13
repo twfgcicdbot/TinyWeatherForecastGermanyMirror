@@ -1,0 +1,5 @@
+- rättade tillfällig återställning av inställningar
+- bakgrundsfärgen för vissa varningar är nu mörkare för att förbättra läsbarheten
+- lade till inställning för att framhäva tid på dygnet i översiktsdiagrammet
+- lade till alternativ för att växla till en annan spegel av opendata.dwd.de
+- andra mindre felrättningar och förbättrade översättningar

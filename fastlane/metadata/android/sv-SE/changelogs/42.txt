@@ -1,0 +1,4 @@
+- rättade krasch vid ändring av inställningar
+- förbättrad visning av prognoser när de finns men är inaktuella
+- frekvensen för Gadgetbridge-uppdateringar är nu bättre anpassad till widgetarna
+- visning av alarmtid i klockwidgeten tar nu korrekt hänsyn till tidszon

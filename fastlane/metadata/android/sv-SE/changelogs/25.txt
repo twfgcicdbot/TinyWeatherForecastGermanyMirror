@@ -1,0 +1,6 @@
+- sökningen omfattar nu städer, kommuner, förbundsländer, sjöar och havsområden
+- sökningen är nu tolerant mot omljud
+- rättade områdesdata, inklusive luckor vid visning av havs- och kustområden
+- uppdateringar startar inte längre när ingen internetanslutning finns
+- automatiska uppdateringar av vädertexter kan stängas av i alternativen
+- flera mindre felrättningar och förbättringar av visningen

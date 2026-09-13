@@ -1,0 +1,6 @@
+Version 0.50.2:
+
+- justerad minsta widgethöjd för bättre anpassning till egna rutnätsstorlekar på hemskärmen
+- rättade widgetar som i vissa fall inte uppdaterades snabbt till en ny plats
+- rättade trasigt Gadgetbridge-alternativ för ”skicka aktuell tid”
+- rättade att uppdateringstjänsten inte startade eftersom aktiviteten inte var i förgrunden på enheter med API >25

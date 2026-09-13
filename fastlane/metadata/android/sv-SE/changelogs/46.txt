@@ -1,0 +1,8 @@
+- snabbare appstart
+- vindhastighet kan nu visas i diagram
+- bestämning av nästa väderstation i bakgrunden
+- förbättrat Gadgetbridge-stöd (WeatherSpec v4)
+- visning av daggpunkt i väderdetaljer
+- omarbetade väderikoner; månen visar nu månfasen
+- antalet berörda platser i delade varningar kan begränsas
+- mindre felrättningar och andra förbättringar

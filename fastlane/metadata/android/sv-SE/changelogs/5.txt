@@ -1,3 +1,3 @@
 Version 0.32:
-- åtgärdar fel i temperaturkonvertering (celsius till kelvin) i API'n för Gadgetbridge
-- liten layoutkorrigering i widget (väder-symbolen är större nu)
+- rättar fel vid temperaturkonvertering (Celsius till Kelvin) i Gadgetbridge-API:t
+- mindre layoutkorrigering i widgeten (vädersymbolen är nu större)

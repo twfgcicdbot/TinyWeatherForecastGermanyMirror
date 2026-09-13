@@ -1,0 +1,6 @@
+- nytt språk: indonesiska (tack till Linerly!)
+- nytt språk: iriska (tack till mondstern!)
+- förbättrade översättningar
+- översiktsdiagrammet finns nu också som widget på hemskärmen
+- antalet dagar som visas i översiktsdiagrammet kan nu anpassas
+- höjden på en prognospost tar nu hänsyn till individuell textskalning

@@ -1,0 +1,7 @@
+- rättade krasch orsakad av varningar utan utgångsdatum
+- rättade att regnradarfilmen ibland inte startade korrekt
+- nederbördsmängden i intervall visas nu som summan av timvärden
+- när UV-riskindex är inställt på ”klar himmel” anges detta nu med en liten solsymbol
+- ytterligare mindre förbättringar av användargränssnittet och felrättningar
+- uppdaterad lista över väderstationer
+- förbättrade översättningar

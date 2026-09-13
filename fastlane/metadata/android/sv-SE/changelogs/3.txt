@@ -1,0 +1,14 @@
+- lade till alternativ för att hämta väderdata regelbundet; det kan aktiveras och stängas av i inställningarna
+- lade till synlig tidpunkt för senaste uppdatering i appen
+- appen och widgeten visar nu också vindriktning
+- rättade vinddata som förlorade riktningsinformation
+- rättade feltolkning av FDAT-fältet (del av sensor-ID)
+- rättade ogiltigt standardvärde för uppdateringsintervallet
+- rättade fel som ledde till mycket sällan förekommande uppdateringar
+- Gadgetbridge-stöd: rättade Unix-tidsstämpel som var fylld med skräp
+- Gadgetbridge-stöd: rättade vindriktning som alltid var 0°
+- Gadgetbridge-stöd: rättade temperatur som skickades i Celsius i stället för Kelvin
+- Gadgetbridge-stöd: rättade att väderförhållanden inte alltid var kompatibla med LineageOS-standarden
+- Gadgetbridge-stöd: rättade att väderförhållandet nu visar aktuellt väder i stället för dagens prognos
+- Gadgetbridge-stödet är fortfarande experimentellt, men bör fungera!
+- lade till tyska

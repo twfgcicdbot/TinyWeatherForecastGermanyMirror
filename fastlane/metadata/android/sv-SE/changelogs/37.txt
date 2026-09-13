@@ -1,0 +1,5 @@
+- snabbare appstart
+- nederbördsmängden döljs när den är noll
+- förbättrade översättningar
+- 6-timmarsuppdateringar synkroniseras bättre med Mosmix-datauppdateringar
+- mindre förbättringar av vädervisningen

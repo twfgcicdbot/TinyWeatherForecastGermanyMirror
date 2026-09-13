@@ -1,0 +1,18 @@
+Version 0.31:
+- appkrasch vid första start (när gamla väderdata saknas)
+- ”Vad är nytt?” visas nu även efter första installationen
+
+Version 0.30:
+- lade till ett alternativ för att regelbundet hämta väderdata med egna intervall; detta kan aktiveras och stängas av i inställningarna
+- lade till synlig tidpunkt för senaste uppdatering i huvudappen
+- app och widget visar nu vindriktning
+- rättade vinddata som förlorade riktningsinformation
+- rättade feltolkning av datafältet FDAT (del av sensor-ID)
+- rättade trasigt standardvärde för uppdateringsintervall
+- rättade uppdateringsfel som gjorde att uppdateringar skedde mycket sällan
+- Gadgetbridge-stöd: rättade Unix-tidsstämpel fylld med skräp
+- Gadgetbridge-stöd: rättade vindriktning som alltid var 0°
+- Gadgetbridge-stöd: rättade temperatur som skickades i Celsius i stället för Kelvin
+- Gadgetbridge-stöd: rättade att angivna väderförhållanden inte alltid var kompatibla med LineageOS-standarden
+- Gadgetbridge-stöd: rättade att aktuellt väder nu visar aktuellt förhållande i stället för dagsprognos
+- Gadgetbridge-stödet är fortfarande i beta, men bör fungera!

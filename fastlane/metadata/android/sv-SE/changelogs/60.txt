@@ -1,0 +1,3 @@
+- förbättrad regnradar
+- rättade saknad avrundning av nederbördsmängd
+- förbättrade översättningar

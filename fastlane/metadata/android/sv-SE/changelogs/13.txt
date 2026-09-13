@@ -1,0 +1,11 @@
+- rättade fel i omräkning från pascal till hektopascal (lufttryck)
+- rättade appkrasch när inställningarna öppnades för första gången
+- väderikonen för timprognosen har nu högst prioritet när den är tillgänglig, vilket bör harmonisera bättre med 6-timmars- och dagsikonerna
+- en cyanblå rad skiljer dagarna åt där det behövs
+- soluppgång och solnedgång visas nu med en pil och ikonstorleken har minskats något
+- en cirkulär förloppsindikator visar när nya väderdata och varningar läses in
+- rullningslisten har fått en ljusare färg och är lite bredare nu
+- valfri färgövergång för att ange prognostid (avstängd som standard)
+- userdebug-versioner kan nu logga till logcat (avstängt i officiella versioner)
+- väderdata uppdateras nu alltid regelbundet från DWD när widgetar eller Gadgetbridge-stöd är aktiverade
+- tidsvisningen i 6-timmarsprognosen kan konfigureras

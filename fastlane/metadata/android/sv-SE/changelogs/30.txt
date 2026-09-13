@@ -1,0 +1,8 @@
+- uppdaterade språk, nytt: spanska (tack till eUgEntOptIc44!)
+- funktionen för vindprognosbåge är rättad och tillbaka igen
+- lägger till luftfuktighet i klockwidgeten
+- rättar widgetar som kraschar när de placeras på skärmen före första appstarten
+- rättar uppdateringar som upprepas under vissa förhållanden
+- rättar krasch när platsen ändras till kända platser utan giltiga data
+- rättar krasch i loggaktiviteten, förbättrad loggning (valfritt)
+- mindre felrättningar och förbättringar av användargränssnittet

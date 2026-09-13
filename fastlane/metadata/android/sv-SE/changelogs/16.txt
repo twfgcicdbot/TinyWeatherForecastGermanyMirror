@@ -1,0 +1,6 @@
+- ny appikon (tack till Janis Bitta!)
+- rättade fel vid omräkning från m/s till knop (kn)
+- rättade att snöbyar visades fel när km/h var valt
+- rättade flera fel och problem med vindvisningen i widgetarna
+- rättade att timprognoser ibland överlappade väderdetaljer i huvudappen
+- flera små förbättringar av layout och visning

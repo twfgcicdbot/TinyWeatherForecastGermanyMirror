@@ -1,0 +1,8 @@
+- mer detaljerad kartvisning och mer exakt regnradar
+- förbättrad, mjukare visning av regnradarn
+- nederbördsmängden kan visas i översiktsdiagrammet
+- rättade väderkartor som ibland märktes med fel datum
+- rättade vindhastighet i översiktsdiagrammet som ibland visades för hög
+- Gadgetbridge-stöd: rättade fel månfas i dagsprognosen
+- rättade krasch relaterad till okänd pollenregion
+- olika andra felrättningar och förbättringar

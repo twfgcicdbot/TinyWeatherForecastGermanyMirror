@@ -1,0 +1,4 @@
+- rättade att kartaktiviteten kraschade när internetanslutning och/eller pollendata saknades
+- förbättrat utseende för widgetar på vissa enheter och startprogram
+- rättade för liten text i widgeten ”Vädret i detalj”
+- rättade felaktig förhandsvisningsbild för widgeten ”Väder och tid”

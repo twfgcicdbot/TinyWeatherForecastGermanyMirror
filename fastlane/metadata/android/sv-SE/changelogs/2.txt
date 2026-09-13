@@ -1,0 +1,4 @@
+- appinstallationen tvingas nu till intern lagring (rättar att widgeten inte är tillgänglig när appen installeras på SD-kort)
+- lade till skärmen ”Vad är nytt?”
+- lade till experimentellt stöd för Gadgetbridge (fungerar ännu inte!)
+- rättade tolkningsfel i vindinformation

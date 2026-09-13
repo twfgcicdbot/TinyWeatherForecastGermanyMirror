@@ -1,0 +1,5 @@
+- ytterligare alternativ för att anpassa översiktsdiagrammet
+- storleken på klockan i widgeten kan nu justeras
+- om det saknas väderdata för en väderstation visas detta
+- widgetar visas nu bättre med vissa startprogram
+- pollenprognosen visas nu tillförlitligt i väderdetaljerna

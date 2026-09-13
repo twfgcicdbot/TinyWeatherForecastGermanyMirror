@@ -1,0 +1,9 @@
+- nytt språk: ungerska (tack till eUgEntOptIc44 och Gőz Barnabás!)
+- ny, rullningsbar väderöversikt
+- förbättrad utformning av användargränssnittet
+- förbättrat stöd för Solarized-teman
+- nytt alternativ för att utlösa uppdatering av väderdata för alla favoriter
+- appen uppdaterar nu valfritt platsen automatiskt vid appstart
+- lade till en inställning för att tvinga liggande eller stående läge
+- förenklad stationssökning
+- uppdaterade översättningar

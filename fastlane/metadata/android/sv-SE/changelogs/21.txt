@@ -1,0 +1,5 @@
+- rättade att varningar saknade uppdatering i huvudappen
+- rättade feltolkning av datum i textprognoser
+- rättade för stor text i den stora widgeten
+- fet widget sträcker nu återigen information till största möjliga bredd
+- vädervarningar rullar nu snabbare

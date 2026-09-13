@@ -1,0 +1,21 @@
+Version 0.50.1:
+- rättade bärbara enheter som visade fel väderikon
+- rättade pil som visade fel vindriktning
+- förbättrade widgetuppdateringar för ökad tillförlitlighet
+- tog bort överflödiga widgetuppdateringar för att öka huvudappens prestanda
+- automatiska uppdateringar är nu aktiverade som standard
+
+Version 0.50.0:
+- lade till DWD-vädervarningar
+- lade till skalade väderikon- och symboluppsättningar för bättre prestanda
+- lade till bättre stöd för breda skärmar
+- lade till en introduktionsskärm som förklarar appens huvudfunktioner
+- rättade trasig skräpsamlare för gamla prognosdata
+- rättade att appen ibland installerades på SD-kort så att widgetar inte blev åtkomliga
+- rättade ett mindre fel som gjorde att appen kraschade när inställningarna öppnades för tidigt vid första appstarten
+
+Gadgetbridge-stöd:
+- ändrade tidsstämpeln i Gadgetbridge-API:t från avfrågningstid till prognostid; detta bör lösa problemet med att vissa bärbara enheter klagar på saknad väderinformation
+- lade till inställning för att ange tidsstämpeln för aktuell väderprognos till aktuell tid i stället för prognostid, eftersom vissa bärbara enheter inte accepterar en prognos som aktuellt väder
+- rättade att senaste uppdateringstid för Gadgetbridge var okänd vid första appstarten
+- rättade att bärbara enheter inte visade text för väderförhållanden korrekt

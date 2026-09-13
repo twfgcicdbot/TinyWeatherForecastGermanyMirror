@@ -1,0 +1,18 @@
+Version 0.54.0:
+- andra appar kan nu dela geografiska koordinater med den här appen
+- betydande prestandaförbättringar i huvudappen genom ny cachning av bitmappar (tack till Marc Nause!)
+- latitud visas nu ovanför longitud
+- ny widget med klocka och väder
+- förbättrad layout i sökdialogen
+- förbättrad layout i den stora widgeten, särskilt genom att rätta information som klipptes av på äldre enheter
+- rättade att högsta temperatur var för hög i den första 6-timmarsposten i huvudappen
+- rättade att kommatecken inte accepterades i geografiska koordinater
+- rättade att isdimma inte visades korrekt
+- många andra mindre felrättningar
+
+Version 0.54.1:
+- rättade överlappningar i sökdialogen
+- rättade flera widgetfel
+- rättade att introduktionen startade mer än en gång
+
+Obs: version 0.54.0 byggdes inte i F-Droid på grund av fel i appens kodförråd.

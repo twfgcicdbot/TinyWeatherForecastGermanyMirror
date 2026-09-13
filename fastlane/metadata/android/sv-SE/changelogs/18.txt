@@ -1,0 +1,10 @@
+- andra appar kan nu dela geografiska koordinater med den här appen
+- betydande prestandaförbättringar i huvudappen genom ny cachning av bitmappar (tack till Marc Nause!)
+- latitud visas nu ovanför longitud
+- ny widget med klocka och väder
+- förbättrad layout i sökdialogen
+- förbättrad layout i den stora widgeten, särskilt genom att rätta information som klipptes av på äldre enheter
+- rättade att högsta temperatur var för hög i den första 6-timmarsposten i huvudappen
+- rättade att kommatecken inte accepterades i geografiska koordinater
+- rättade att isdimma inte visades korrekt
+- många andra mindre felrättningar

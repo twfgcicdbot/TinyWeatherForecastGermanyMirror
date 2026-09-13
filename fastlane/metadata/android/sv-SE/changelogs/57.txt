@@ -1,0 +1,5 @@
+- rättar trasig regnradar
+- UV-riskindexprognosen i huvudappens vy kan ändras till ”klar himmel”
+- förbättrad prestanda i huvudappens vy
+- förbättrade översättningar
+- olika felrättningar

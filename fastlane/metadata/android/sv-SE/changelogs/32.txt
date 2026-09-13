@@ -1,0 +1,9 @@
+- nytt språk: danska (tack till mondstern!)
+- widgetar visar nu vädervarningar
+- aviseringar om vädervarningar för den valda platsen
+- nytt alternativ för att stänga av användning av avgiftsbelagda nätverk
+- bättre visning vid användning av egna teckenstorlekar
+- rättar visning av vädervarningar med start mer än 24 timmar framåt i tiden
+- rättade problem vid användning av VPN
+- eget Gadgetbridge-paketnamn används nu som avsett
+- rättade ikonen för ”lätta snöbyar” i ljusa teman

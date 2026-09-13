@@ -1,0 +1,8 @@
+- ny inställning för att visa daggpunkt i stället för relativ luftfuktighet
+- rättade formeln för beräkning av luftfuktighet
+- lade till valfri visning av information om vindriktningens väg
+- lade till ett alternativ för att spara senaste kartposition och zoomnivå
+- varningar för den valda platsen framhävs nu med en ram
+- relativ luftfuktighet och daggpunkt ritas nu korrekt i översiktsdiagrammet för temperaturer under 0 °C
+- ytterligare felrättningar och förbättringar
+- förbättrade översättningar

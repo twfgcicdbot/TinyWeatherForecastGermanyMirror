@@ -1,0 +1,4 @@
+- lade till monokrom appikon för stöd av tematisering av appikoner
+- förbättrad layout för den kompakta väderwidgeten och rättade flera fel
+- rättade att den klassiska widgeten hade en begränsning för högsta höjd
+- förbättrade översättningar

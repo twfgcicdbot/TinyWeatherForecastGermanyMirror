@@ -1,0 +1,12 @@
+- vädervarningar uppdateras nu också korrekt när appen återgår till förgrunden
+- rättade att stationsnamnet inte uppdaterades efter återställning av favoriter
+- lade till exakt beräkning av dag/natt samt visning av soluppgång och solnedgång
+- rättade krascher efter uppdatering från äldre appversioner
+- lade till lufttryck vid markytan
+- lade till sikt
+- fältet med timprognos visas nu som standard
+- utökade möjligheter att anpassa visningen
+
+- Ändringsloggen för version 0.50.3 visades inte korrekt i appen:
+   - prognosintervall kan nu ställas in: varje timme, var 6:e timme, blandat (varje timme de första 24 timmarna, därefter var 6:e timme)
+   - valfritt fält som visar detaljer om timprognosen i 6-timmarsprognosen

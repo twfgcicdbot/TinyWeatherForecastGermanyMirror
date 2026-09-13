@@ -1,0 +1,7 @@
+- tog bort lösa bildpunkter i vissa molnikoner
+- lade till valfri visning av relativ luftfuktighet i översiktsdiagrammet
+- lade till valfritt varningsfilter i översiktsdiagrammet
+- förbättrade kontroller av plats i bakgrunden
+- rättade att vald plats inte bevarades i vissa fall
+- andra mindre felrättningar
+- förbättrad översättning

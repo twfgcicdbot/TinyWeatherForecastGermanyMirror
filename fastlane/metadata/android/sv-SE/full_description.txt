@@ -1,0 +1,9 @@
+Detaljerad väderprognos för upp till 10 dagar, baserad på öppna data från Deutscher Wetterdienst (DWD). Vädervarningar från DWD visas också.
+
+Väderprognosen för den önskade väderstationen visas. Stationer kan sökas efter namn, geografiska koordinater eller den egna platsen. Väderprognoser finns för fler än 5 000 väderstationer i Tyskland och världen över.
+
+Appen har en avskalad utformning. Den har valfritt stöd för bärbara enheter via Gadgetbridge, så att väderdata också kan visas på sådana enheter.
+
+Det finns även flera sätt att anpassa visningen av väderdata efter egna behov. Tidpunkterna för soluppgång, solnedgång och skymning kan också visas för den valda platsen.
+
+Appen har även en favoritlista som kan användas för att snabbt växla mellan flera väderstationer. Den erbjuder också flera widgetar i olika storlekar med väderprognos, som kan placeras på hemskärmen och uppdateras automatiskt.

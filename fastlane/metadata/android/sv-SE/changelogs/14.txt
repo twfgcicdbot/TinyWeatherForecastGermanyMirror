@@ -1,0 +1,6 @@
+Gadgetbridge-väderdataformatet har uppdaterats för stöd av version 0.48.0 (build 182) eller senare.
+
+VIKTIGT: den här versionen av Tiny Weather Forecast Germany och framtida versioner stöder endast Gadgetbridge version 0.48.0 eller senare. Uppdatera Gadgetbridge för att fortsatt få väderdata till din bärbara enhet!
+
+- mindre förbättringar av användargränssnittet (visning av tid, temperatur och vindriktning)
+- rättade widgetar som visade fel väderdata under vissa förhållanden

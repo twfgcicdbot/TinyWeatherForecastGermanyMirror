@@ -1,0 +1,5 @@
+- lade till vindenheter: m/s, beaufort (bf), knop (kn)
+- lade till avståndsenheter: nautiska mil, engelska mil och yard
+- vindriktning kan nu visas på tre sätt: enkel pil, pil med vindhastighet (beaufort), text
+- rättade fel i bitmaprotation av pil som gav fel vindriktning
+- mindre layoutförbättringar i widgetarna

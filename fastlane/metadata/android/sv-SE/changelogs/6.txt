@@ -1,0 +1,20 @@
+Version 0.40:
+- Gadgetbridge-stöd: rättade högsta temperatur i prognosen
+- experimentell, ny och förhoppningsvis mer frekvent överföring av väderdata till GadgetBridge-appen
+- ändrade väderikoner
+- väderprognos finns nu för de kommande 10 dagarna
+- nytt alternativ för att upprepa uppdatering var 15:e minut när nätverk saknas
+- ny experimentell funktion för att ta igen en förfallen uppdatering när nätverk åter finns
+- nya alternativ för lokal loggning (felsökning)
+- omarbetade inställningar
+- rättade att uppdateraren kraschade när enheten var i viloläge
+- flera felrättningar
+
+Med den här versionen ändrar appen API:t hos Deutscher Wetterdienst. Ändringen gör att mer exakta prognoser kan visas, men innebär en mycket grundläggande ombyggnad. Därför kan nya fel uppstå.
+
+Inställningarna har återställts till standardvärdena.
+
+Viktig information:
+Om appen kraschar efter byte av väderstation, rapportera stationen till mig.
+
+Appen kan återställas till fungerande skick genom att ta bort appdata. Det återställer också standardvärdena och appen visar åter vädret i Hamburg.

@@ -1,0 +1,3 @@
+- appen riktar nu in sig på SDK-nivå 36
+- appspråket kan nu ställas in i appens inställningar
+- förbättrade översättningar

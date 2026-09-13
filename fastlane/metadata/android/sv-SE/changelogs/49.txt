@@ -1,0 +1,7 @@
+- förbättrade widgetar på hemskärmen, datasynkronisering, översättningar och Gadgetbridge-stöd
+- nya inställningar för bättre anpassning av datasynkronisering
+- kortare appstartstid
+- rättade trasiga platskontroller i bakgrunden
+- rättade fel kring lufttryck på bärbara enheter
+- rättade tider för soluppgång, solnedgång med mera som försköts en dag på bärbara enheter
+- appbutiker kan nu uppdatera appen automatiskt

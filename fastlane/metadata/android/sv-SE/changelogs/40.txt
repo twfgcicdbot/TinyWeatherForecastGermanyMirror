@@ -1,0 +1,3 @@
+- uppdaterad lista över väderstationer
+- nya prognosplatser (DMO; Direct Model Output) utöver befintliga väderstationer
+- mindre felrättningar, särskilt i användargränssnittet

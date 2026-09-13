@@ -1,0 +1,9 @@
+- stor felrättning som löser krascher efter appstart på vissa enheter och ROM:ar
+- ändrar källa för regnradar från MX-komposit till MN-komposit
+- nya appgenvägar
+- introducerar visning av relativ luftfuktighet
+
+Nya språk:
+* italienska (tack till eUgEntOptIc44 och mondstern!)
+* tjeckiska (tack till eUgEntOptIc44 och mondstern!)
+* norskt bokmål (tack till Allan Nordhøy och mondstern!)

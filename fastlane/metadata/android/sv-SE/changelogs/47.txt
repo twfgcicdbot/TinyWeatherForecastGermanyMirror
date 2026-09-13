@@ -1,0 +1,7 @@
+- tider för soluppgång, solnedgång, månuppgång, månnedgång och skymning visas i väderdetaljerna
+- förbättrad beräkning av väderförhållanden, särskilt i 6 h- och 24 h-intervall
+- förbättrade intervall som visas i prognosfältet
+- gör temperaturintervallet synligt i översiktsdiagrammet när inga mellanliggande steg ritas
+- rättade trasig layout i vädervarningar på vissa äldre enheter när kartan döljs eller öppnas
+- något kortare starttid
+- förbättrade översättningar

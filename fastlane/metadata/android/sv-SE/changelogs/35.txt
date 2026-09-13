@@ -1,0 +1,6 @@
+- nytt språk: ukrainska (tack till Andrij Mizyk och eUgEntOptIc44!)
+- nytt översiktsdiagram (kan aktiveras i inställningarna)
+- ny liggande layout för skärmar med minst 600 dp bredd
+- att hålla ned en prognospost i appen öppnar nu en mer detaljerad vy
+- rättade prognosdagar på bärbara enheter som försköts en dag
+- rättade lägsta och högsta temperaturer som ibland var fel i det första prognosintervallet
